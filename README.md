@@ -1,5 +1,5 @@
 # latexconvertor
-Convert a PowerPoint with speaker's notes to a LaTeX file. This is really simular to the "print with speaker's notes" in Office.
+Convert a PowerPoint with speaker's notes to a LaTeX file. This is really similar to the "print with speaker's notes" in Office.
 
 ## Features &limitations
 
