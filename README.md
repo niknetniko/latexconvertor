@@ -1,5 +1,5 @@
 # latexconvertor
-Convert a PowerPoint with speaker's notes to a LaTeX file. This is really simular to the "print with speaker's notes" in Office.
+Convert a PowerPoint with speaker's notes to a LaTeX file. This is really similar to the "print with speaker's notes" in Office.
 
 ## Features &limitations
 
@@ -14,7 +14,7 @@ Following features are currently supported:
 
 Following things do currently not work or do not work as expected:
 
-* All text that is intended will be recognized as a list.
+* All text that is indented will be recognized as a list.
 * All lists are recognized as unordered list.
 * Does not recognize bold/italic/underline.
 * Nested lists are untested.
