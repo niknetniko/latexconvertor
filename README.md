@@ -39,40 +39,9 @@ Following things do currently not work or do not work as expected:
 
 ## License
 
-```
 Copyright 2019 Niko Strijbol
 
-In licentie gegeven krachtens de EUPL, versie 1.1 of –
-zodra deze worden goedgekeurd door de Europese Commissie
-- opeenvolgende versies van de EUPL (de "licentie");
-U mag dit werk niet gebruiken, behalve onder de
-voorwaarden van de licentie.
-U kunt een kopie van de licentie vinden op:
-https://joinup.ec.europa.eu/software/page/eupl5
+In licentie gegeven krachtens de EUPL, versie 1.2 of – zodra deze worden goedgekeurd door de Europese Commissie – opeenvolgende versies van de EUPL (de "licentie"); U mag dit werk niet gebruiken, behalve onder de voorwaarden van de licentie. U kunt een kopie van de licentie vinden op:
+https://joinup.ec.europa.eu/collection/eupl/eupl-text-11-12
 
-Tenzij dit op grond van toepasselijk recht vereist is
-of schriftelijk is overeengekomen, wordt software
-krachtens deze licentie verspreid "zoals deze is",
-ZONDER ENIGE GARANTIES OF VOORWAARDEN,
-noch expliciet noch impliciet.
-Zie de licentie voor de specifieke bepalingen voor
-toestemmingen en beperkingen op grond van de licentie.
-
-
-
-Licensed under the EUPL, Version 1.1 or – as soon they
-will be approved by the European Commission - subsequent
-versions of the EUPL (the "Licence");
-You may not use this work except in compliance with the
-Licence.
-You may obtain a copy of the Licence at:
-https://joinup.ec.europa.eu/software/page/eupl5
-
-Unless required by applicable law or agreed to in
-writing, software distributed under the Licence is
-distributed on an "AS IS" basis,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either
-express or implied.
-See the Licence for the specific language governing
-permissions and limitations under the Licence.
-```
+Tenzij dit op grond van toepasselijk recht vereist is of schriftelijk is overeengekomen, wordt software krachtens deze licentie verspreid "zoals deze is", ZONDER ENIGE GARANTIES OF VOORWAARDEN, noch expliciet noch impliciet. Zie de licentie voor de specifieke bepalingen voor toestemmingen en beperkingen op grond van de licentie.
