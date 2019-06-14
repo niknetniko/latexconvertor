@@ -31,7 +31,7 @@ Following things do currently not work or do not work as expected:
 2. Open the PowerPoint.
 3. Go to the Developers tab (in the Ribbon).
 4. Go to plugins, and select the downloaded file. Click OK on any warnings.
-5. Go to the new Plugins tab (in the Ribbon).
+5. Go to the new Add-ins tab (in the Ribbon).
 6. Press the button.
 7. Sit back.
 8. Profit?
@@ -40,7 +40,7 @@ Following things do currently not work or do not work as expected:
 ## License
 
 ```
-Copyright 2016 Niko Strijbol
+Copyright 2019 Niko Strijbol
 
 In licentie gegeven krachtens de EUPL, versie 1.1 of –
 zodra deze worden goedgekeurd door de Europese Commissie

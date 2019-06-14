@@ -19,6 +19,16 @@ Sub Convert_To_LaTeX()
     Dim Pgh As TextRange
     Dim oSlide As Slide '* Slide Object
     On Error GoTo Err_ImageSave
+    Dim sngHeight As Single
+    Dim sngWidth As Single
+    Dim height As Single
+    
+    With ActivePresentation.PageSetup
+        sngHeight = .SlideHeight
+        sngWidth = .SlideWidth
+    End With
+    
+    height = 1920 * sngHeight / sngWidth
 
     sPrefix = Split(ActivePresentation.Name, ".")(0)
     sImagePath = ActivePresentation.path
@@ -38,7 +48,7 @@ Sub Convert_To_LaTeX()
         WriteMessage slideCounter, total
         sImageName = sPrefix & "-" & oSlide.SlideIndex & ".png"
         ' Export image with 1920x1440 (h x b), this needs to match the slide dimensions
-        oSlide.Export tImagePath & "\" & sImageName, "PNG", 1920, 1440
+        oSlide.Export tImagePath & "\" & sImageName, "PNG", 1920, height
         ' Add image to TeX file
         latexFile = latexFile & "\begin{center}" & vbCrLf & "\frame{\includegraphics[width=0.9\columnwidth]{" & sImageName & "}}" & vbCrLf & "\end{center}" & vbCrLf
         For Each oSh In oSlide.NotesPage.Shapes

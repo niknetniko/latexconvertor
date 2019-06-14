@@ -14,6 +14,7 @@ Attribute VB_Creatable = False
 Attribute VB_PredeclaredId = True
 Attribute VB_Exposed = False
 
+
 Private Sub Cancel_Click()
     Dim out As Integer
     out = MsgBox("Het programma is vroegtijdig gestopt. Reeds gemaakte afbeeldingen zijn niet opgeruimd.", vbOKOnly Or vbExclamation, "Opgelet!")
