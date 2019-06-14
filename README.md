@@ -39,7 +39,7 @@ Following things do currently not work or do not work as expected:
 
 ## License
 
-Copyright 2019 Niko Strijbol
+Copyright Niko Strijbol, 2019.
 
 In licentie gegeven krachtens de EUPL, versie 1.2 of – zodra deze worden goedgekeurd door de Europese Commissie – opeenvolgende versies van de EUPL (de "licentie"); U mag dit werk niet gebruiken, behalve onder de voorwaarden van de licentie. U kunt een kopie van de licentie vinden op:
 https://joinup.ec.europa.eu/collection/eupl/eupl-text-11-12
