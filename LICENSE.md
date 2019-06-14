@@ -91,7 +91,7 @@ Onverminderd specifieke overeenkomsten tussen de partijen,
 * wordt deze licentie beheerst door het Belgische recht indien de licentiegever geen statutaire zetel, verblijfplaats of hoofdkantoor heeft in een lidstaat van de Europese Unie.
 
    
-##Aanhangsel 
+## Aanhangsel 
 „Verenigbare licenties” in de zin van artikel 5 EUPL zijn: 
 * GNU General Public License (GPL) v. 2, v. 3 
 * GNU Affero General Public License (AGPL) v. 3 
